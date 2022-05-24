@@ -23,6 +23,8 @@
     Un antipatrón de diseño es un patrón de diseño que nos va a conducir a una mala solución a un problema.
 
     Es fundamental conocer los antipatrones de diseño, porque se considera una parte importante de una buena práctica de programación.
+    
+    Como programador se deberían conocer los antipatrones para evitarlos siempre que sea posible, lo que requiere tener una cierta idea de los mismos para poder reconocerlos, identificarlos y tan pronto como sea posible eliminarlos dentro del ciclo de vida del desarrollo del software.
 
 
  ### *Tipos de antipatrones*.   
