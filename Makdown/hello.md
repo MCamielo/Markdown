@@ -39,7 +39,7 @@
 
 
 
-*¿Que es un singleton?*
+#### *¿Que es un singleton?*
 
 
     Consiste en restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto, con la intención de garantizar que una clase sólo tenga una instancia y proporcionar un único punto de acceso global a ella.
