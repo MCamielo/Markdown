@@ -7,7 +7,7 @@
 
 
 ## *¿Que es?*
-## *¿Como se compone?*
+<!--## *¿Como se compone?*-->
 ## *¿Tipos y definiciones?*  
 
 
