@@ -28,9 +28,13 @@ Texto del segundo apartado
 
     Un antipatrón de diseño es un patrón de diseño que nos va a conducir a una mala solución a un problema.
 
-    Es fundamental conocer los antipatrones de diseño, porque se considera una parte importante de una buena práctica de programación.
+    Es fundamental conocer los antipatrones de diseño, porque se considera una parte importante de una buena 
+    práctica de programación.
     
-    Como programador se deberían conocer los antipatrones para evitarlos siempre que sea posible, lo que requiere tener una cierta idea de los mismos para poder reconocerlos, identificarlos y tan pronto como sea posible eliminarlos dentro del ciclo de vida del desarrollo del software.
+    Como programador se deberían conocer los antipatrones para evitarlos siempre que sea posible, lo que requiere tener
+    una cierta idea de los mismos para poder   reconocerlos, identificarlos y tan pronto como sea 
+    posible eliminarlos dentro del ciclo de vida del desarrollo del software.
+    
  #### *¿Que es un singleton?*
 
 
@@ -47,13 +51,18 @@ Es bueno conocerlos también al igual que los patrones, ya que en este conocerlo
 
     Podemos encontrarnos con diferentes tipos de antipatrones:
 
-    - Antipatrones de diseño de software, como podría ser generar una clase muy gorda, dotarla de demasiados atributos, demasiados métodos y haciéndola responsable de, por ejemplo, prácticamente toda la lógica del negocio de la aplicación que esté llevando.
+    - Antipatrones de diseño de software, como podría ser generar una clase muy gorda, dotarla de demasiados atributos, 
+    demasiados métodos y haciéndola responsable de, por ejemplo, prácticamente toda la lógica del negocio de la aplicación que 
+    esté llevando.
 
-    - Antipatrones de diseño Orientado a Objetos, como podría ser la Singletonitis, que es el abuso del patrón de diseño Singleton, y que se considera una mala práctica.
+    - Antipatrones de diseño Orientado a Objetos, como podría ser la Singletonitis, que es el abuso del patrón de diseño Singleton, 
+    y que se considera una mala práctica.
 
-    - Antipatrones de programación, cómo podría ser el conocido código espagueti, que consiste en construir sistemas sin estructuras y difícilmente comprensibles.
+    - Antipatrones de programación, cómo podría ser el conocido código espagueti, que consiste en construir sistemas sin estructuras 
+    y difícilmente comprensibles.
 
-    - Antipatrones metodológicos, como por ejemplo hacer programación de copiar pegar trozos de código en lugar de intentar hacer soluciones genéricas.
+    - Antipatrones metodológicos, como por ejemplo hacer programación de copiar pegar trozos de código en lugar de intentar hacer 
+    soluciones genéricas.
 
 
 
