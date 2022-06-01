@@ -13,12 +13,10 @@
 - 1.1 [¿Qué es un singleton?](#id2)
 + 2[¿Cómo se compone o sus partes?](#id3)
 + 3 [Tipos de antipatrones](#id4)
-- 3.1 [¿Qué es un singleton?](#id5)
-- 3.2 [¿Qué es un singleton?](#id6)
-- 3.3 [¿Qué es un singleton?](#id7)
+- 3.1 [Anti-patrones de Codificación](#id5)
+- 3.2 [Anti-patrones de Arquitectura](#id6)
+- 3.3 [Anti-patrones de Administración de Proyecto](#id7)
 
-
-3. 
 
 <br>
 <br>
