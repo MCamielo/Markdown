@@ -9,13 +9,19 @@
 
 
 **Índice**   
-+ 1. [¿Qué es un antipatron de diseño?](#id1)
-- 1.1 [¿Qué es un singleton?](#id2)
-+ 2[¿Cómo se compone o sus partes?](#id3)
-+ 3 [Tipos de antipatrones](#id4)
-- 3.1 [Anti-patrones de Codificación](#id5)
-- 3.2 [Anti-patrones de Arquitectura](#id6)
-- 3.3 [Anti-patrones de Administración de Proyecto](#id7)
++ 1.[¿Qué es un antipatron de diseño?](#id1)
+- 1.1. [¿Qué es un singleton?](#id2)
++ 2. [¿Cómo se compone o sus partes?](#id3)
++ 3. [Tipos de antipatrones](#id4)
+ - 3.1. [Anti-patrones de Codificación](#id5)
+ - 3.2. [Anti-patrones de Arquitectura](#id6)
+ - 3.3. [Anti-patrones de Administración de Proyecto](#id7)
+
++ One
++ Two
++ Three
+    - Nested One
+    - Nested Two
 
 
 <br>
@@ -47,7 +53,7 @@ Es bueno conocerlos también al igual que los patrones, ya que en este conocerlo
 
 # *¿Como se compone o sus partes?*  <a name="id3"></a>
 
-Al utilizar antipatrones de diseño sabemos que como mala practica es necesaario identificarlos y conocer de ellos para asi evitarlos siempre que sea posible para asi eliminarlo del ciclo de vida del sofware y no obstruir su desempeño.
+Al utilizar antipatrones de diseño sabemos que como mala practica es necesario identificarlos y conocer de ellos para asi evitarlos siempre que sea posible para asi eliminarlo del ciclo de vida del sofware y no obstruir su desempeño.
 
 - Antipatrones de diseño de software, como podría ser generar una clase muy gorda, dotarla de demasiados atributos, 
     demasiados métodos y haciéndola responsable de, por ejemplo, prácticamente toda la lógica del negocio de la aplicación que 
