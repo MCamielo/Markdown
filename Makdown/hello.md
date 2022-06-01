@@ -31,6 +31,16 @@ Texto del segundo apartado
     Es fundamental conocer los antipatrones de diseño, porque se considera una parte importante de una buena práctica de programación.
     
     Como programador se deberían conocer los antipatrones para evitarlos siempre que sea posible, lo que requiere tener una cierta idea de los mismos para poder reconocerlos, identificarlos y tan pronto como sea posible eliminarlos dentro del ciclo de vida del desarrollo del software.
+   #### *¿Que es un singleton?*
+
+
+    Consiste en restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto, con la intención de garantizar que una clase sólo tenga una instancia y proporcionar un único punto de acceso global a ella.
+
+<br>
+
+Estos son solo algunos de los antipatrones que nos van a llevar a implementar malas soluciones.
+
+Es bueno conocerlos también al igual que los patrones, ya que en este conocerlos va a permitir poder detectar a tiempo futuros problemas que van a desembocar en problemas mayores.
 
 
  ### *Tipos de antipatrones*.   
@@ -47,16 +57,7 @@ Texto del segundo apartado
 
 
 
-#### *¿Que es un singleton?*
 
-
-    Consiste en restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto, con la intención de garantizar que una clase sólo tenga una instancia y proporcionar un único punto de acceso global a ella.
-
-<br>
-
-Estos son solo algunos de los antipatrones que nos van a llevar a implementar malas soluciones.
-
-Es bueno conocerlos también al igual que los patrones, ya que en este conocerlos va a permitir poder detectar a tiempo futuros problemas que van a desembocar en problemas mayores.
 
 
 
