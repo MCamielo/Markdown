@@ -37,7 +37,6 @@ Texto del segundo apartado
     Consiste en restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto, <br>
     con la intención de garantizar que una clase sólo tenga una instancia y proporcionar un único punto de acceso global a ella.
 
-<br>
 
 Estos son solo algunos de los antipatrones que nos van a llevar a implementar malas soluciones.
 
