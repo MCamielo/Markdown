@@ -44,7 +44,7 @@ Estos son solo algunos de los antipatrones que nos van a llevar a implementar ma
 Es bueno conocerlos también al igual que los patrones, ya que en este conocerlos va a permitir poder detectar a tiempo futuros problemas que van a desembocar en problemas mayores.
 
 
-#### *¿Como se compone o sus partes?*
+# *¿Como se compone o sus partes?*
 
 Al utilizar antipatrones de diseño sabemos que como mala practica es necesaario identificarlos y conocer de ellos para asi evitarlos siempre que sea posible para asi eliminarlo del ciclo de vida del sofware y no obstruir su desempeño.
 
@@ -64,10 +64,10 @@ Al utilizar antipatrones de diseño sabemos que como mala practica es necesaario
 
 
 
- #### *Tipos de antipatrones*.   
+ # *Tipos de antipatrones*.   
 
     Podemos encontrarnos con diferentes tipos de antipatrones:
-##   Anti-patrones de Codificación
+###   Anti-patrones de Codificación
 
 -Lava Flow:  como “programar al estilo volcán”. Es construir grandes cantidades de código de manera desordenada, con poca documentación y poca claridad de su función en el sistema, su característica principal es que entre mas crece el código mas difícil es su mantenimiento
 
@@ -79,7 +79,7 @@ Al utilizar antipatrones de diseño sabemos que como mala practica es necesaario
 
 -Fantasmas.- Demasiadas clases en un programa o tablas en una base de datos. Varias clases o tablas con mínimas responsabilidades. Muchas veces se utiliza para disfrazar la presencia del anti-patrón The God. Se colocan clases inútiles, que disfrazan el hecho que todo el sistema se encuentra construido en uno, o unos cuantos archivos, módulos o clases. +
 
-## Anti-patrones de Arquitectura
+### Anti-patrones de Arquitectura
 
 -Reinventar la rueda.- Se refiere a Re implementar componentes que se pueden conseguir prefabricados de antemano, y hacer poco reusó en el código. En breves palabras: querer hacer todo uno mismo. 
 
@@ -88,7 +88,7 @@ Lo anterior, por lo regular, a causa de poco conocimiento del trabajo ya existen
 -Casarse con el diablo.- Crear una dependencia hacia un fabricante que nos provee de alguna solución (componentes). El problema es inminente: 1. Se depende completamente de lo que el vendedor haga. 2. La calidad de los productos del proveedor nos comprometen. 3. El vendedor nos tiene agarrados. Cito como ejemplo, el caso de una de las universidades más importantes del país, cuyo desarrollo casi completo del sistema de administración escolar, está realizado sobre PL/SQL en Oracle.
 
 
-## Anti-patrones de Administración de Proyecto
+### Anti-patrones de Administración de Proyecto
 
 -The Mythical Month Man.- Mejor conocido como en el entorno como el “súper equipo de programadores”. Consiste en la creencia de que asignar más personal a un proyecto, acotará el tiempo de entrega. 
 
