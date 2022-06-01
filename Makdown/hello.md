@@ -18,13 +18,10 @@
 
 **Índice**   
 1. [Primer apartado](#id1)
- 2. [Segundo apartado](#id2)
-## Primer apartado<a name="id1"></a>
-Texto del primer apartado
-## Segundo apartado<a name="id2"></a>
-Texto del segundo apartado
+2. [Segundo apartado](#id2)
 
-### *¿Que es un antipatron de diseño?*. 
+
+### *¿Que es un antipatron de diseño?*. <a name="id1"></a>
 
     Un antipatrón de diseño es un patrón de diseño que nos va a conducir a una mala solución a un problema.
 
@@ -35,7 +32,7 @@ Texto del segundo apartado
     una cierta idea de los mismos para poder   reconocerlos, identificarlos y tan pronto como sea 
     posible eliminarlos dentro del ciclo de vida del desarrollo del software.
     
- #### *¿Que es un singleton?*
+ #### *¿Que es un singleton?*<a name="id2"></a>
 
 
     Consiste en restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto,
